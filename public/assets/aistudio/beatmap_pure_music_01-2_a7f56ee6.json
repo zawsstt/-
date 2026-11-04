@@ -1,0 +1,218 @@
+{
+  "title": "高峰期的外卖单 · 纯音乐版",
+  "bpm": 112,
+  "key": "A minor",
+  "chords": "Am - F - C - G",
+  "bars": 64,
+  "duration_sec": 137.14,
+  "structure": [
+    {
+      "section": "intro",
+      "bars": "0-3"
+    },
+    {
+      "section": "verse",
+      "bars": "4-19"
+    },
+    {
+      "section": "chorus",
+      "bars": "20-35"
+    },
+    {
+      "section": "bridge",
+      "bars": "36-43"
+    },
+    {
+      "section": "chorus",
+      "bars": "44-59"
+    },
+    {
+      "section": "outro",
+      "bars": "60-63"
+    }
+  ],
+  "note": "本文件是纯音乐，不含提示音、数拍、语音和打击音效。游戏内应在 beatmap 时间点由引擎另外触发 sfx_seventh_hit_zap.mp3，不要把提示音混进音乐文件。",
+  "hits": [
+    {
+      "beat_index": 6,
+      "time_sec": 3.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 13,
+      "time_sec": 6.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 20,
+      "time_sec": 10.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 27,
+      "time_sec": 14.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 34,
+      "time_sec": 18.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 41,
+      "time_sec": 21.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 48,
+      "time_sec": 25.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 55,
+      "time_sec": 29.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 62,
+      "time_sec": 33.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 69,
+      "time_sec": 36.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 76,
+      "time_sec": 40.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 83,
+      "time_sec": 44.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 90,
+      "time_sec": 48.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 97,
+      "time_sec": 51.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 104,
+      "time_sec": 55.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 111,
+      "time_sec": 59.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 118,
+      "time_sec": 63.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 125,
+      "time_sec": 66.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 132,
+      "time_sec": 70.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 139,
+      "time_sec": 74.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 146,
+      "time_sec": 78.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 153,
+      "time_sec": 81.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 160,
+      "time_sec": 85.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 167,
+      "time_sec": 89.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 174,
+      "time_sec": 93.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 181,
+      "time_sec": 96.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 188,
+      "time_sec": 100.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 195,
+      "time_sec": 104.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 202,
+      "time_sec": 108.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 209,
+      "time_sec": 111.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 216,
+      "time_sec": 115.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 223,
+      "time_sec": 119.464,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 230,
+      "time_sec": 123.214,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 237,
+      "time_sec": 126.964,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 244,
+      "time_sec": 130.714,
+      "type": "seventh"
+    },
+    {
+      "beat_index": 251,
+      "time_sec": 134.464,
+      "type": "seventh"
+    }
+  ],
+  "hit_count": 36
+}

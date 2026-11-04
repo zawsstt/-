@@ -1,0 +1,7 @@
+{
+  "name": "502 Bad Gateway — Server Emergency Room",
+  "description": "DevOps rhythm game inspired by Rhythm Doctor. Clear memory leaks, defuse deadlocks, and survive DDoS floods with precision 7-beat garbage collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
